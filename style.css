@@ -18,10 +18,16 @@ body {
   max-width: 900px;
 }
 
+
 /* header */
 .site-header {
   text-align: center;
   padding-top: 50px;
+}
+
+.logo {
+  width: 120px;
+  margin-bottom: 20px;
 }
 
 .site-title {
